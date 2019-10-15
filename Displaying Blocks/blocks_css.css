@@ -1,0 +1,270 @@
+body *{
+    /*outline: 2px solid red;*/
+    padding: 0px;
+    margin: 0px;
+  }
+  div.container{
+    background-color: #D5D2AE;
+    width: 690px;
+    height: 650px;
+    margin: 0px auto;
+  }
+  /* ---^^For holding EVERYTHING+ the below^^--- */
+
+  div.heading{
+      width: 710px;
+      height: 100px;
+      vertical-align: top;
+  }
+    div.heading h1{
+        width: 300px;
+        text-align: center;
+        display: inline-block;
+    }
+    div.heading img{
+        width: 100px;
+        height: 50px;
+        display: inline-block;
+        background-color: white;
+    }
+    div.info{
+        padding-top: 50px;
+        margin-left: 95px;
+    }
+  /* ---^^For the Header^^--- */
+
+  div.boxes{
+      display: inline-block;
+      width: 690px;
+      height: 520px;
+  }
+  div.rowoneone{
+    background-color: #82B4EE;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin: 18px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+        div.dojocat img{
+            width: 100px;
+            height: 100px;
+            margin: 10px;
+        }
+  div.rowonetwo{
+    background-color: #F36870;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+  div.rowonethree{
+    background-color: #82B4EE;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+  div.rowonefour{
+    background-color: #F36870;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+  div.rowonefive{
+    background-color: #82B4EE;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+  /* --^^USED FOR THE FIRST ROW^^-- */
+
+  div.rowtwoone{
+    background-color: #82B4EE;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin-top: 2px;
+    margin-right: 1px;
+    margin-left: 18px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+  div.rowtwotwo{
+    background-color: #F36870;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin-top: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+  div.rowtwothree{
+    background-color: #82B4EE;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin-top: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+  div.rowtwofour{
+    background-color: #F36870;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin-top: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+  div.rowtwofive{
+    background-color: #82B4EE;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin-top: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+   /* --^^USED FOR THE THIRD ROW^^-- */
+
+   div.rowthreeone{
+    background-color: #82B4EE;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin-top: 2px;
+    margin-right: 1px;
+    margin-left: 18px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+  div.rowthreetwo{
+    background-color: #F36870;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin-top: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+  div.rowthreethree{
+    background-color: #82B4EE;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin-top: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+  div.rowthreefour{
+    background-color: #F36870;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin-top: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+  div.rowthreefive{
+    background-color: #82B4EE;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin-top: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+  /* --^^USED FOR THE THIRD ROW^^-- */
+
+  div.rowfourone{
+    background-color: #82B4EE;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin-top: 2px;
+    margin-right: 1px;
+    margin-left: 18px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+  div.rowfourtwo{
+    background-color: #F36870;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin-top: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+  div.rowfourthree{
+    background-color: #82B4EE;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin-top: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+  div.rowfourfour{
+    background-color: #F36870;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin-top: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
+  div.rowfourfive{
+    background-color: #82B4EE;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
+    margin-top: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    display: inline-block;
+  }
